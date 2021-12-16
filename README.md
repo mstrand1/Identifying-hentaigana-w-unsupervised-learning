@@ -1,3 +1,5 @@
+**IMPORTANT** Major project overhaul planned 12/16 or 12/17 - stay tuned!!
+
 **If the notebook fails to load, please use this viewer:** https://nbviewer.org/github/mwstrand/Identifying-hentaigana-w-unsupervised-learning/blob/main/Hentaigana%20Analysis.ipynb
 
 Note: This project is finished for the most part, but I intend to formalize it with more detailed descriptions and explainations when I have time.
