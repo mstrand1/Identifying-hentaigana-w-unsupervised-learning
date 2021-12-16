@@ -1,4 +1,4 @@
-**IMPORTANT** Major project overhaul planned 12/16 or 12/17 - stay tuned!!
+**IMPORTANT** *Major* project overhaul planned **12/16 or 12/17** - stay tuned!!
 
 **If the notebook fails to load, please use this viewer:** https://nbviewer.org/github/mwstrand/Identifying-hentaigana-w-unsupervised-learning/blob/main/Hentaigana%20Analysis.ipynb
 
