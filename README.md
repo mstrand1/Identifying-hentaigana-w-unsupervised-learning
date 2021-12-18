@@ -1,8 +1,4 @@
-**IMPORTANT** *Major* project overhaul planned **12/16 or 12/17** - stay tuned!!
-
-**If the notebook fails to load, please use this viewer:** coming soon
-
-Note: This project is finished for the most part, but I intend to formalize it with better code organization, delivery, more detailed descriptions, and explainations when I have time (*Coming 12/16 or 12/17*).
+**If the notebook fails to load, please use this viewer:** 
 
 The Kuzushiji-49 dataset contains 232,365 Japanese characters in the training data alone. The original author of this dataset states there may be mulitiple ways of writing certain characters (called Hentaigana, a typical feature of ancient Japanese writing). 
 
